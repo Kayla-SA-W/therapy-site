@@ -77,7 +77,8 @@ const FAQ = () => (
             <Paragraph>I am currently only offering online therapy conducted via video for all Massachusetts residents. I will not be offering any in-person sessions until further notice. <br/>Video conference sessions are conducted through Simple Practice, a secure HIPAA compliant online electronic health recording system. After we set up our initial appointment, I will send you the link in my welcome email. When clients have their session, I recommend they find a private place and use headphones if there are any privacy concerns. </Paragraph>
             <Heading>What health insurance do you take?</Heading>
             <Hr/>
-            <Paragraph>Starting late June, 2023, Chosen Heart Counseling will be taking Blue Cross Blue Shield insurance. </Paragraph>
+            <Paragraph>Chosen Heart Counseling takes Blue Cross Blue Shield insurance and Aetna insurance.</Paragraph>
+            <Paragraph>If you do not have have either of these health insurances, please call your insurance provider to inquire if your plan has 'out-of-network coverage'</Paragraph>
             <Heading>What is your out-of-pocket cost?</Heading>
             <Hr/>
             <Paragraph>

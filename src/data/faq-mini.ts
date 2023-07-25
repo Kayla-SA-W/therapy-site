@@ -11,12 +11,12 @@ export const faqMini = [
     },
     {
         header: 'Do you take insurance?',
-        body: 'Starting July, 2023, Chosen Heart Counseling will be taking Blue Cross Blue Shield insurance. If you do not have BCBS, I am an out-of-network provider for most PPO/POS insurance plans, Click Read More for Out of Network Information.',
+        body: 'Chosen Heart Counseling takes Blue Cross Blue Shield and Aetna health insurances. If you do not have BCBS or Aetna, I am an out-of-network provider for most PPO/POS insurance plans, Click Read More for Out of Network Information.',
         url: 'insurance'
     },
     {
         header: 'Out of Pocket Cost',
-        body: 'Chosen Heart Counseling is committed to providing accessible services. The Rate Range Structure is designed to be equitable and anti-oppressive. In order to help determine the range right for you, click Read More to see the criteria and levels.',
+        body: 'Out of Pocket or self-pay fee is $200 per session. If you are using BCBS or Aetna, your fee per session will be based on your copay/deductible for your health plan. To find out more about your copay/deductible, please call your insurance provider.',
         url: 'cost'
     },
     {
